@@ -6,7 +6,7 @@ We have added some exciting new components to our reviews, including Oracles, an
 
 <p>We would appreciate that you go through the documentation, and answer some questions we have about the way the data is. This will only take about 10 minutes of your time. </p>
 <ol>
-<li>Please visit the 0.8 Blank draft. Please give us some initial thoughts on this report, and please pay particular attention to questions 24 to 28, as these are the new questions we have added. </li>
+<li>Please visit the [0.8 Blank draft](https://github.com/DeFiSafety/Process-Version-0.8/blob/main/0.8%20blank.pdf/) . Please give us some initial thoughts on this report, and please pay particular attention to questions 24 to 28, as these are the new questions we have added. </li>
 
   
 <li>Please take a brief look at our new Scoring Algorithm. This breaks down the specific scores on a question-to question basis. Please pay specific attention to the breakdown of individual scoring categories, such as the weight of the Oracles category. </li>
