@@ -13,18 +13,21 @@ We have added some exciting new components to our reviews. These included metric
 ●	Added TimeLock questions in “Access Controls” section
 
 <h2>Scoring Matrix</h2>
-
+<br>
 Section “Code and team”: Reduced scoring weight of section from 19.2% to 14.1%
 
 ●	Question 5 “Is the team public”: Changed scoring weight from 5.8% to 3.1%
 
 ●	All other scoring weights changed in relation to new point increase (0.7 had 260 points, .8 now has 320)
 
+<br>
 Section “Documentation”: Reduced scoring weight from 17.3% to 10.9%
 
 ●	Question 9 “Are there sufficiently detailed comments for all functions within the deployed contract code” was removed
 
 ●	All other scoring weights changed relative to point increase (.7 had 260 points, .8 has 320)
+
+<br>
 
 Section “Testing”: Reduced scoring weight from 19.2% to 15.6%
 
@@ -34,11 +37,15 @@ Section “Testing”: Reduced scoring weight from 19.2% to 15.6%
 
 ●	All other scoring weights changed relative to point increase (.7 had 260 points, .8 has 320)
 
+<br>
+
 Section “Security”: Reduced scoring weight from 30.8% to 23.4%
 
 ●	Question 16 “Is the protocol sufficiently audited?”: Scoring weight reduced from 26.9% to 20.3%
 
 ●	All other scoring weights changed relative to point increase (.7 had 260 points, .8 has 320)
+
+<br>
 
 Section “Access Controls”: Increased scoring weight from 13.5% to 23.4%
 
@@ -58,6 +65,8 @@ Section “Access Controls”: Increased scoring weight from 13.5% to 23.4%
 
 ●	All other scoring weights changed relative to point increase (.7 had 260 points, .8 has 320)
 
+<br>
+
 Section “Oracles”: NEW SECTION ADDED with a weight of 12.5%
 
 ●	Question 26 “Is the Oracle sufficiently documented?”: Was added to our reviews with a weight of 6.3%
@@ -68,6 +77,8 @@ Section “Oracles”: NEW SECTION ADDED with a weight of 12.5%
 
 <h2>Question Nomenclature</h2>
 
+<br>
+
 Section “Code and team”: Name was changed to “Smart Contracts and Team”
 
 ●	Question 1 “Are the executing code addresses readily available?” was changed to “Are the smart contract addresses easy to find?”
@@ -75,6 +86,8 @@ Section “Code and team”: Name was changed to “Smart Contracts and Team”
 ●	Question 2 “Is the code actively being used?” was changed to “How active is the primary contract?”
 
 ●	Question 3 “Is there a public software repository?” was changed to “Does the protocol have a public software repository?”.
+
+<br>
 
 Section “Documentation”: Name was changed to “Code Documentation”.
 	
@@ -85,6 +98,8 @@ Section “Documentation”: Name was changed to “Code Documentation”.
 ●	Question 9 “Are there sufficiently detailed comments for all functions within the deployed contract code?” was removed.
 
 ●	Question 10 “Is it possible to trace from software documentation to the implementation in code?” replaced Question 9, and was changed to “Is it possible to trace the documented software to its implementation in the protocol's source code?”
+
+<br>
 
 Section “Testing”
 
@@ -100,10 +115,14 @@ Section “Testing”
 
 ●	Question 16 “Stress Testing” moved down to Question 15, and was changed to “Were the smart contracts deployed to a testnet?”.
 
+<br>
+
 Section “Security”
 
 ●	Question 17 “Did 3rd Party audits take place?” moved down to Question 16, and was changed to “Is the protocol sufficiently audited?”.
 ●	Question 18 “Is the bounty value acceptably high?” moved down to Question 17.
+
+<br>
 
 Section “Access Controls”: Name was changed to “Admin Controls”.
 
@@ -111,11 +130,11 @@ Section “Access Controls”: Name was changed to “Admin Controls”.
 
 ●	Question 20 “Is the information clear and complete” was separated in 3 different questions:
 
-○	Question 19 “Are relevant contracts clearly labelled as upgradeable or immutable?”
+●	Question 19 “Are relevant contracts clearly labelled as upgradeable or immutable?”
 
-○	Question 20 “Is the type of smart contract ownership clearly indicated?”
+●	Question 20 “Is the type of smart contract ownership clearly indicated?”
 
-○	Question 21 “Are the protocol's smart contract change capabilities described?”
+●	Question 21 “Are the protocol's smart contract change capabilities described?”
 
 ●	Question 21 “Is the information in non-technical terms that pertain to the investments” was moved up to Question 22, and was changed to “Is the protocol's admin control information easy to understand?”.
 
@@ -125,6 +144,8 @@ Section “Access Controls”: Name was changed to “Admin Controls”.
 
 ●	Question 25 “Is the Timelock of an adequate length?” was added to the reviews.
 
+<br>
+
 Section “Oracles” was added to the reviews.
 
 ●	Question 26 “Is the protocol's Oracle sufficiently documented?” was added to the reviews.
@@ -132,6 +153,8 @@ Section “Oracles” was added to the reviews.
 ●	Question 27 “Is front running mitigated by this protocol?” was added to the reviews.
 
 ●	Question 28 “Can flashloan attacks be applied to the protocol, and if so, are those flashloan attack risks mitigated?” was added to the reviews.
+
+<br>
 
 <h2>Question Guidance</h2>
 
